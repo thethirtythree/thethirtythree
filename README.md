@@ -1,24 +1,36 @@
-# The Thirty Three Company 🛡️🤖
+<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-Welcome to the official GitHub organization for **The Thirty Three Company**. We are a next-generation CCTV manufacturing and software enterprise, bridging the gap between advanced hardware engineering, edge AI, and seamless web-based surveillance management.
+###
 
-## 🚀 What We Do
+<img data-importer="image" align="right" height="150" src="[https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjk1OTgyZ3JzMHlxcm10ZDZxNjYxeWFwa2lwMDZ4NnE3MWFpYmVlaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif]"  />
 
-We build end-to-end security ecosystems, managing everything from the silicon up to the cloud. Our core expertise spans two primary domains:
+###
 
-* **Embedded Software & Hardware:** We design and manufacture advanced, AI-enabled CCTV hardware, writing high-performance embedded firmware that runs deep learning models directly on the edge.
-* **Web-Based VMS (Video Management System):** A modern, web-app-based VMS platform that allows users to monitor, analyze, and manage live and recorded video feeds securely from any browser, anywhere.
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-## 🛠️ Tech Stack & Ecosystem
+###
 
-Our open-source contributions and internal engineering leverage a robust stack:
-* **Embedded & Systems:** C, C++, Rust, Linux, RTOS
-* **Edge AI:** TensorFlow Lite, ONNX, OpenCV, NVIDIA Jetson / custom NPU pipelines
-* **Web VMS & Backend:** Node.js, Go, Python, WebSockets, WebRTC for ultra-low latency streaming
-* **Frontend:** React / Vue.js, TailwindCSS, HTML5 Canvas/WebGL for video rendering
+<div data-importer="socials" align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-## 📫 Connect with Us
-
-* **Website:** [[thethirtythree](https://thethirtythree.in/)]
-* **Contact:** sd.ap@thirtythreecompany.in
-* **Careers:** Check out our open roles if you love working at the intersection of AI, embedded hardware, and web performance!
+###
