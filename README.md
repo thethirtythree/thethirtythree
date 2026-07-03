@@ -19,6 +19,6 @@ Our open-source contributions and internal engineering leverage a robust stack:
 
 ## 📫 Connect with Us
 
-* **Website:** [[Insert Website Link](https://thethirtythree.in/)]
+* **Website:** [[thethirtythree](https://thethirtythree.in/)]
 * **Contact:** sd.ap@thirtythreecompany.in
 * **Careers:** Check out our open roles if you love working at the intersection of AI, embedded hardware, and web performance!
